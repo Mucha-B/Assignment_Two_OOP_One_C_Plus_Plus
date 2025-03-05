@@ -1,4 +1,4 @@
-# Assignment_Two_OOP_One_C_Plus_Plus
+# Assignment_Two_OOP_One_C++
 
 Code and Detailed Comments for Assignment Two
 
